@@ -41,13 +41,16 @@
     <div class="container">
         <h1>Sameday Technology</h1>
         <div class="image">
-            <img src="https://ecolet.ro/wp-content/uploads/2023/08/de-ce-merita-folosit-sameday-courier.png" alt="Company Logo">
+            <img src="https://example.com/image.jpg" alt="Company Logo">
         </div>
         <div class="info">
-            Ionut Mitoi - PDA/PUDO/Support Telefon:0733026151
+            Ionut Mitoi - PDA/PUDO/IT Support
         </div>
         <div class="program">
-            Program 9:00-18:00 De Luni pana Vineri
+            Program 9-18 De luni pana Vineri
+        </div>
+        <div>
+            <a href=" https://ionutmitoi.github.io/Support-/">Accesează proiectul pe GitHub</a>
         </div>
     </div>
 </body>
