@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sameday Technology</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+            color: red;
+        }
+        .info {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #555;
+        }
+        .program {
+            font-size: 16px;
+            color: #777;
+        }
+        .image {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sameday Technology</h1>
+        <div class="image">
+            <img src="https://ecolet.ro/wp-content/uploads/2023/08/de-ce-merita-folosit-sameday-courier.png" alt="Company Logo">
+        </div>
+        <div class="info">
+            Ionut Mitoi - PDA/PUDO/Support Telefon:0733026151
+        </div>
+        <div class="program">
+            Program 9:00-18:00 De Luni pana Vineri
+        </div>
+    </div>
+</body>
+</html>
+
